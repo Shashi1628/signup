@@ -1,0 +1,100 @@
+.login_outer{
+    background-color: #F4F5FA;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login_outer_row1{
+    height: 58vh;
+    max-width: 600px;
+    width: 30%;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+.login_outer_row1_inner_row1 img{
+      width: 35px;
+     margin-left: 180px;
+     margin-top: 25px;
+}
+.login_outer_row1_inner_row1_h2{
+   margin-left: 225px;
+   margin-top: -34px;
+   font-size: 28px;
+   opacity:15
+}
+.login_outer_row1_inner_row2_h1{
+    margin-left: 18px;
+    margin-top: 35px;
+    font-size: 28px;
+ }
+ .login_outer_row1_inner_row3{
+    margin-left: 18px;
+    margin-top: -10px;
+    font-size: 15px;
+ }
+ .login_outer_row1_inner_row4 input{
+    outline: none;
+    margin-left: 18px;
+    margin-top: 22px;
+    font-size: 15px;
+    width: 90%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+ }
+ .login_outer_row1_inner_row5 input{
+    outline: none;
+    margin-left: 18px;
+    margin-top: 22px;
+    font-size: 15px;
+    width: 90%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+ }
+ .login_outer_row1_inner_row6{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.login_outer_row1_inner_row6 input{
+    
+    margin-left: 18px;
+    margin-top: 14px;
+    font-size: 14px;
+}
+.login_outer_row1_inner_row6 label{
+    margin-left: 5px;
+   
+}
+.login_outer_row1_inner_row6 text{
+    margin-left: 159px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #A574FD;
+}
+.login_outer_row1_inner_row7_button{
+    outline: none;
+    border-radius: 4px;
+    width: 90%;
+    height: 30px;
+    margin-left: 18px;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-color: #9155FD;
+    background-color: #9155FD;
+}
+.login_outer_row2{
+    margin-left: -325px;
+    margin-top: 480px;
+    font-size: 14px;
+}
+.login_outer_row2 text{
+    color: #9155FD;
+}
